@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI Improvements using HTML and Javascript
+Currently working on UI Improvements using HTML and Javascript
 
 
 ## 🌐 Socials:
